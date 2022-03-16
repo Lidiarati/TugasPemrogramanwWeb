@@ -9,7 +9,7 @@ include 'functions.php';
 
 <div class="content">
 	<h2>Home</h2>
-	<p>Selamat datang di halaman Home rati</p>
+	<p>Selamat datang di halaman Home rati edit</p>
 </div>
 
 <?=template_footer()?>
